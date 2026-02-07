@@ -1,0 +1,3 @@
+pdf2image==1.17.0   # pure-Python wrapper—works on Lambda
+Pillow==11.3.0      # image library required by pdf2image
+boto3==1.40.37      # AWS SDK used for S3 read/write

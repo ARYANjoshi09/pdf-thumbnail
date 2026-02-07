@@ -1,0 +1,8 @@
+PIL
+pillow.libs
+boto3*
+__pycache__
+*.dist-info
+venv
+.git
+.env
