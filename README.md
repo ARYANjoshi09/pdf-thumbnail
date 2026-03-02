@@ -41,9 +41,6 @@ Contributions are welcome! If you have suggestions or improvements, please submi
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-For any inquiries, please contact ARYANjoshi09 at [email@example.com].
-
 ## Acknowledgments
 - This project makes use of several libraries, including PyPDF2 and Pillow, for PDF handling and image processing.
 - Special thanks to the open-source community for their contributions!
